@@ -22,7 +22,7 @@ export default function Hero() {
             real-world projects to enhance development expertise.
           </p>
           <div className="hero-buttons">
-            <a href="/public/resume.pdf/Charith_Kale_Resume.pdf" download className="cta-primary">
+            <a href="/public/Charith Kale Resume.pdf" download className="cta-primary">
               RESUME
             </a>
             <button className="cta-outline" onClick={() => scrollTo("About")}>
