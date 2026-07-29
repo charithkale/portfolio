@@ -32,27 +32,27 @@ export const CERTIFICATES = [
     org: "Forage",
     date: "June 2026",
     note: "Built a front-end web application as a simulated Front-End Engineer at Skyscanner using React. Developed a travel date-picker page using Skyscanner's Backpack React component library and ran automated tests to verify rendering and functionality.",
-    image: "/public/certificates/Skyscanner front end.jpg",
+    image: "/public/Skyscanner front end.jpg",
   },
   {
     title: "Deloitte Australia Data Analytics Job Simulation",
     org: "Forage",
     date: "June 2026",
     note: "Completed a simulated data analysis and forensic technology engagement for Deloitte Australia. Built an interactive data dashboard using Tableau and used Excel to classify datasets and derive business conclusions.",
-    image: "/public/certificates/Deloitte Data Analytics certification.jpg",
+    image: "/public/Deloitte Data Analytics certification.jpg",
   },
   {
     title: "SQL Bootcamp",
     org: "Lets Upgrade",
     date: "June 2026",
     note: "Completed SQL Bootcamp certificate from Lets Upgrade.",
-    image: "/public/certificates/sql.jpg.jpg",
+    image: "/public/sql.jpg.jpg",
   },
   {
     title: "Node.js Bootcamp",
     org: "Lets Upgrade",
     date: "June 2026",
     note: "Completed Node.js Bootcamp certificate from Lets Upgrade.",
-    image: "/public/certificates/Node.js.jpg",
+    image: "/public/Node.js.jpg",
   }
 ];
