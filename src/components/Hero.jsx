@@ -34,8 +34,7 @@ export default function Hero() {
               <img src="/src/assets/github-white-icon.png" alt="" className="icon" />
             </a>
             <a href="https://www.linkedin.com/in/charith-kale" target="_blank" rel="noreferrer" aria-label="LinkedIn">
-                <img src="/src/assets/linkedin-app-icon.png" alt="" className="icon" />
-
+              <img src="/public/linkedin-icon.png" alt="" className="icon" />
             </a>
           </div>
         </div>
