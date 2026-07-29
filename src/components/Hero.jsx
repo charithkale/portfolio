@@ -1,11 +1,5 @@
 import React from "react";
-import { Globe, Code2, Mail } from "lucide-react";
 import profile from "../assets/Profile linkedin dark (1).png";
-<<<<<<< HEAD
-=======
-import linkedinIcon from "/public/linkedin-icon.png";
->>>>>>> 7d7e3927cc9c0a65a779336519ef4488613d6ee7
-
 export default function Hero() {
   const scrollTo = (id) => {
     const el = document.getElementById(id.toLowerCase());
@@ -38,7 +32,7 @@ export default function Hero() {
               <img src="/src/assets/github-white-icon.png" alt="" className="icon" />
             </a>
             <a href="https://www.linkedin.com/in/charith-kale" target="_blank" rel="noreferrer" aria-label="LinkedIn">
-              <img src="/src/assets/linkedin-icon.png" alt="" className="icon" />
+             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABwklEQVR4nO2ZP0vDQByGkwsOruIkuGpXP4GLWyuufgk/g4OUXHFQEId2cFFwcHJUsC1mFPGutNpCLdY6VIp/2kT7N/1J0latbbGJklzgHninHMf75HdZLoLA4XA4TCPJdAXJJI5kqiFMwZHIVBMxjUkyWf5TeRET7FhpPDwiJkH7b97l8qgbKUQClgXMY8NAeWRMQaZR6wKYqG4XR73IpGJDgIHi+Cv/JuCLpOG8oIHW0EEpaDAfTntLQClo8J34veYtAa2h9wmodd1bAorXJ+CLpE0JYxKxvApz4RtvCSCXInAB3Mkwxnk+u3sN2xclSJWqUG224bXWMo/i2ukDTG4m2BZY2MvA41sTRnFZfIeZnRS7AtmXOvxGLK+CxKrAuPiPcmwK6G0wz//S4S2sHucheqcOXbeffGZTYF0p9q2ZCCXgJFcZWJd5qrEpML2dHNhn8SA7sK5ca7En0P7xvJepreTYa12fgN29EBfAXMCEC2AuQLkA4gIWGbWRWxE8fbWIadmygHE/z0BxMCJiemZZwPi54HZx1I2Er/yWBTpTIEG3y4uYbNgq/zmJEAkY9/POfhNENY6N7TfP4XA4glN8AJJwntfiYf8PAAAAAElFTkSuQmCC" alt="linkedin" className="icon"></img>
             </a>
           </div>
         </div>
