@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/((?!assets|certificates|resume.pdf).*)", "destination": "/" }
-  ]
-}
