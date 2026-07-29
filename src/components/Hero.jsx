@@ -1,7 +1,7 @@
 import React from "react";
 import { Globe, Code2, Mail } from "lucide-react";
 import profile from "../assets/Profile linkedin dark (1).png";
-import linkedin from "../assets/linkedin-icon.png";
+import linkedinIcon from "/public/linkedin-icon.png";
 
 export default function Hero() {
   const scrollTo = (id) => {
