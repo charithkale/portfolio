@@ -1,6 +1,7 @@
 import React from "react";
 import { Globe, Code2, Mail } from "lucide-react";
 import profile from "../assets/Profile linkedin dark (1).png";
+import linkedin from "../assets/linkedin-icon.png";
 
 export default function Hero() {
   const scrollTo = (id) => {
@@ -34,7 +35,7 @@ export default function Hero() {
               <img src="/src/assets/github-white-icon.png" alt="" className="icon" />
             </a>
             <a href="https://www.linkedin.com/in/charith-kale" target="_blank" rel="noreferrer" aria-label="LinkedIn">
-              <img src="/public/linkedin-icon.png" alt="" className="icon" />
+              <img src={linkedin} alt="" className="icon" />
             </a>
           </div>
         </div>
