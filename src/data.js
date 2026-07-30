@@ -32,7 +32,7 @@ export const CERTIFICATES = [
     org: "Forage",
     date: "June 2026",
     note: "Built a front-end web application as a simulated Front-End Engineer at Skyscanner using React. Developed a travel date-picker page using Skyscanner's Backpack React component library and ran automated tests to verify rendering and functionality.",
-    image: "/public/Skyscanner front end.jpg",
+    image: "/Skyscanner front end.jpg",
   },
   {
     title: "Deloitte Australia Data Analytics Job Simulation",
