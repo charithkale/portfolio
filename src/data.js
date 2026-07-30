@@ -39,20 +39,20 @@ export const CERTIFICATES = [
     org: "Forage",
     date: "June 2026",
     note: "Completed a simulated data analysis and forensic technology engagement for Deloitte Australia. Built an interactive data dashboard using Tableau and used Excel to classify datasets and derive business conclusions.",
-    image: "/public/Deloitte Data Analytics certification.jpg",
+    image: "/Deloitte Data Analytics certification.jpg",
   },
   {
     title: "SQL Bootcamp",
     org: "Lets Upgrade",
     date: "June 2026",
     note: "Completed SQL Bootcamp certificate from Lets Upgrade.",
-    image: "/public/sql.jpg.jpg",
+    image: "/sql.jpg.jpg",
   },
   {
     title: "Node.js Bootcamp",
     org: "Lets Upgrade",
     date: "June 2026",
     note: "Completed Node.js Bootcamp certificate from Lets Upgrade.",
-    image: "/public/Node.js.jpg",
+    image: "/Node.js.jpg",
   }
 ];
