@@ -28,7 +28,7 @@ export default function Hero() {
             </button>
           </div>
           <div className="social-row">
-            <a href="https://github.com" target="_blank" rel="noreferrer" aria-label="GitHub">
+            <a href="https://github.com/charithkale" target="_blank" rel="noreferrer" aria-label="GitHub">
             <img src="/github-white-icon.png" alt="github-logo" className="icon"/>       </a>
             <a href="https://www.linkedin.com/in/charith-kale" target="_blank" rel="noreferrer" aria-label="LinkedIn">
            <img  src="/linkedin-icon.png" alt="linkedin" className="icon"/>
